@@ -26,6 +26,6 @@
 
 ## 📫 Contact
 
-- Email: mosismbra@gmail.com
-- LinkedIn: linkedin.com/in/mosa-alibrahim
-- Portfolio: mosa-alibrahim.com
+- Email: [mosismbra@gmail.com](mailto:mosismbra@gmail.com)
+- LinkedIn: [linkedin.com/in/mosa-alibrahim](https://linkedin.com/in/mosa-alibrahim)
+- Portfolio: [mosa-alibrahim.com](https://mosa-alibrahim.com)
