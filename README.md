@@ -1,8 +1,8 @@
 # Hi, I'm Mosa Alibrahim 👋
 
 🎓 Computer Science graduate and Cyber Security Master’s student  
-💻 Interested in Backend Development with Java & Spring Boot & Python
-🤖 Also exploring Python, AI, Machine Learning and IT Security  
+💻 Interested in Backend Development with Java, Spring Boot, and Python  
+🤖 Also exploring AI, Machine Learning, and IT Security
 
 ## 🔧 Skills
 
