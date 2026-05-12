@@ -1,7 +1,7 @@
 # Hi, I'm Mosa Alibrahim 👋
 
 🎓 Computer Science graduate and Cyber Security Master’s student  
-💻 Interested in Backend Development with Java & Spring Boot  
+💻 Interested in Backend Development with Java & Spring Boot & Python
 🤖 Also exploring Python, AI, Machine Learning and IT Security  
 
 ## 🔧 Skills
@@ -10,7 +10,7 @@
 - **Backend:** Spring Boot, REST APIs
 - **Frontend:** HTML, CSS, JavaScript
 - **AI & Machine Learning:** TensorFlow, CNN, Adversarial ML, LLMs, Prompt Engineering, MCP
-- **Tools:** SQL, InfluxDB, Excel, Git, GitHub, HubSpot, Figma
+- **Tools:** SQL, InfluxDB, Excel, Git, GitHub, HubSpot, Figma ,VS Code
 
 ## 🚀 Projects
 
