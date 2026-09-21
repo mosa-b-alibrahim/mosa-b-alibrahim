@@ -1,31 +1,19 @@
 # Hi, I'm Mosa Alibrahim 👋
 
-🎓 Computer Science graduate and Cyber Security Master’s student  
-💻 Interested in Backend Development with Java, Spring Boot, and Python  
-🤖 Also exploring AI, Machine Learning, and IT Security
+🎓 Computer Science graduate (B.Sc.)  
+💻 Focused on Software & Backend Development with Java and Spring Boot  
+🤖 Experience with Python, Machine Learning, and Adversarial ML
 
-## 🔧 Skills
+## 🔧 Tech Stack
 
-- **Programming:** Python, Java, JavaScript
-- **Backend:** Spring Boot, REST APIs
-- **Frontend:** HTML, CSS, JavaScript
-- **AI & Machine Learning:** TensorFlow, CNN, Adversarial ML, LLMs, Prompt Engineering, MCP
-- **Tools:** SQL, InfluxDB, Excel, Git, GitHub, HubSpot, Figma ,VS Code
-
-## 🚀 Projects
-
-### PROTECTAI – Machine Learning & IT Security
-- Built a CNN model for handwritten digit recognition
-- Implemented adversarial attacks such as FGSM and poisoning
-- Improved model robustness using adversarial training
-- Used Python and TensorFlow
-
-### UI/UX Design Project
-- Created wireframes and interactive prototypes
-- Designed user-friendly web interfaces using Figma
+**Backend:** Java, Spring Boot, REST APIs  
+**Programming:** Python  
+**Databases & Data:** SQL, InfluxDB  
+**AI & ML:** TensorFlow, CNN, Adversarial ML  
+**Web:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub
 
 ## 📫 Contact
 
-- Email: [mosismbra@gmail.com](mailto:mosismbra@gmail.com)
 - LinkedIn: [linkedin.com/in/mosa-alibrahim](https://linkedin.com/in/mosa-alibrahim)
-- Portfolio: [mosa-alibrahim.com](https://mosa-alibrahim.com)
+- Portfolio: [mosa-b-alibrahim.github.io](https://mosa-b-alibrahim.github.io)
